@@ -1,4 +1,4 @@
 - 👋 Hello! I'm @NoahBae and am currently a student at Pepperdine University pursuing a BS in Computer Science/Math. 
-- Overall I'm interest in app dev, data science, Prolog, scheme, and many other fields. 
+- Overall I'm interest in AI and Machine Leanring, data science, and many other fields. 
 - For the moment, I'm exploring the mechanics and developing things with Python and Java currently but hopefully will produce some larger scale projects in the near future!
 - I'm looking to have fun for what piques my interest here and there but you can reach me @noahbae00@gmail.com. Thanks for visiting! 👋
